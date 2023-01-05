@@ -174,9 +174,27 @@
             "kms": 8000,
             "Description": "Tata Nexon with all original documents",
             "Price": 800000
+          },
+          {
+            "id": 1672900985950,
+            "brand": "Honda",
+            "type": "Automated",
+            "year": 2006,
+            "kms": 20000,
+            "Price": 250000,
+            "Description": "IN Good condition "
+          },
+          {
+            "id": 1672906183399,
+            "brand": "Maruti",
+            "type": "Manual",
+            "year": 2004,
+            "kms": 25000,
+            "Price": 25800,
+            "Description": "Good"
           }
         ],
-        "wishlisted_cars":[
+        "wishlistedcars":[
             {
                 "id": 1,
                 "brand": "Tata",
@@ -185,6 +203,24 @@
                 "kms": 10000,
                 "Description": "Tata Altroz with all original documents",
                 "Price": 500000
+              },
+              {
+                "id": 2,
+                "brand": "Tata",
+                "type": "AMT",
+                "year": 2017,
+                "kms": 8000,
+                "Description": "Tata Nexon with all original documents",
+                "Price": 950000
+              },
+              {
+                "id": 1672906183399,
+                "brand": "Maruti",
+                "type": "Manual",
+                "year": 2004,
+                "kms": 25000,
+                "Price": 25800,
+                "Description": "Good"
               }
         ]
       
