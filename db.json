@@ -222,7 +222,18 @@
                 "Price": 25800,
                 "Description": "Good"
               }
-        ]
+        ],
+        "signup":[
+            {
+                "email":"nazia@gmail.com",
+                "name": "nazia",
+                "password":"123456"
+            }
+        ],
+        "login":[
+               
+            ],
+            "tasks":[]
       
 
 }
